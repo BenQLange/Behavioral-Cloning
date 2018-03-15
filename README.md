@@ -7,8 +7,7 @@ This project is part of my Self-Driving Car course. It uses neural network frame
 a. Model.py containing the script to create and train the model 
 b. Drive.py for driving the car in autonomous mode 
 c. Model.h5 containing a trained convolution neural network 
-d. Writeup_report.pdf summarizing the results 
-e. Video.mp4 with a recording of vehicle autonomously driving around the track. 
+d. Video.mp4 with a recording of vehicle autonomously driving around the track. 
 
 Model is trained and tested using simulator provided by Udacity. 
 
